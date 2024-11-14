@@ -8,14 +8,17 @@ I have over 8 years of experience as a full stack web and mobile developer. My c
 - React.js
 - Next.js
 - JavaScript
+- PHP
 - React Native CLI
 - React Native Expo
+- Native iOS (Swift/SwiftUI)
 - HTML
 - CSS
 
 ## Back-end:
 - Node.js
 - Express.js
+- PHP
 
 ## Tech Stack Experience:
 - Native iOS (Swift/SwiftUI): 6+ years
