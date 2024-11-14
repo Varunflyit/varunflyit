@@ -5,8 +5,8 @@ Hello, I'm Varun from Chandigarh, North India.
 I have over 8 years of experience as a full stack web and mobile developer. My core expertise includes:
 
 ## Front-end:
-- React.js
-- Next.js
+- React JS
+- Next JS
 - JavaScript
 - PHP
 - React Native CLI
@@ -16,15 +16,16 @@ I have over 8 years of experience as a full stack web and mobile developer. My c
 - CSS
 
 ## Back-end:
-- Node.js
-- Express.js
+- Node JS
+- Express JS
 - PHP
 
 ## Tech Stack Experience:
 - Native iOS (Swift/SwiftUI): 6+ years
-- React.js: 5+ years
+- React JS: 5+ years
 - React Native: 6.5+ years
 - PHP (MVC framework): 7+ years
+- Node JS: 5+ years
 
 ## Hobbies
 
